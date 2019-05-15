@@ -113,9 +113,12 @@ video {
 }
 
 .masthead .masthead-content .input-group-newsletter input {
+  display: block;
   height: auto;
+  width: 100%;
   font-size: 1rem;
-  padding: 1rem;
+  padding: .5rem;
+  margin-bottom: 10px !important;
 }
 
 .masthead .masthead-content .input-group-newsletter button {
